@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79001912-d116-48cc-ab98-e9f483446690" name="Default Changelist" comment="" />
+    <list default="true" id="79001912-d116-48cc-ab98-e9f483446690" name="Default Changelist" comment="We just created Web site. And we're wanna sex and many money" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1js3FFvIeHn3dDI5JnQw6eW8tmT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,17 +34,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604578869302</updated>
-      <workItem from="1604578871638" duration="1024000" />
+      <workItem from="1604578871638" duration="1421000" />
     </task>
+    <task id="LOCAL-00001" summary="We just created Web site. And we're wanna sex and many money">
+      <created>1604581152510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604581152510</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="We just created Web site. And we're wanna sex and many money" />
+    <option name="LAST_COMMIT_MESSAGE" value="We just created Web site. And we're wanna sex and many money" />
   </component>
   <component name="WindowStateProjectService">
     <state x="229" y="89" key="SettingsEditor" timestamp="1604580780690">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604580780690" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604581170230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604581170230" />
+    <state x="533" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604581025673">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1604581025673" />
   </component>
 </project>
